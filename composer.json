@@ -1,0 +1,6 @@
+{
+  "require": {
+    "php": ">=7.0",
+    "lesstif/php-jira-rest-client": "1.10.1"
+  }
+}
